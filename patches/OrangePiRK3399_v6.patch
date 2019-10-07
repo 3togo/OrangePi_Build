@@ -318,4 +318,3 @@ diff -ur '--exclude=.git' tools/rk3399/backup/scripts/build.sh OrangePiRK3399/sc
 +    $cmd
 +done 
 +
-Only in OrangePiRK3399/scripts/: PrepareTool.sh

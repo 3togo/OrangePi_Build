@@ -7,8 +7,16 @@ if ! hash apt-get 2>/dev/null; then
     exit 1
 fi
 
-apt-get -y --no-install-recommends --fix-missing install \
-    bsdtar mtools u-boot-tools pv bc \
+pkgs="bsdtar mtools u-boot-tools pv bc \
     gcc automake make curl\
     lib32z1 lib32z1-dev qemu-user-static \
-    dosfstools figlet device-tree-compiler debootstrap
+    dosfstools figlet device-tree-compiler debootstrap"
+
+for mpkg in $pkgs; do 
+	if ! dpkg -s $mpkg >/dev/null 2>&1; then
+		echo "$mpkg is installed."
+		sudo apt-get -y --no-install-recommends --fix-missing install $mpkg
+	else
+		echo "$mpkg has already installed."
+	fi
+done

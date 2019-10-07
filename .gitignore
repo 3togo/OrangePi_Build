@@ -30,7 +30,6 @@
 *.lzma
 *.xz
 *.lzo
-*.patch
 *.gcno
 standby.code
 resume1.code

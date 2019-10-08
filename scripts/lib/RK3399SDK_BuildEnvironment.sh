@@ -11,7 +11,7 @@ fi
 # Github
 kernel_GITHUB="https://github.com/orangepi-xunlong/OrangePiRK3399_kernel.git"
 uboot_GITHUB="https://github.com/orangepi-xunlong/OrangePiRK3399_uboot.git"
-scripts_GITHUB="https://github.com/orangepi-xunlong/OrangePiRK3399_scripts.git"
+scripts_GITHUB="https://github.com/3togo/OrangePiRK3399_scripts.git"
 external_GITHUB="https://github.com/orangepi-xunlong/OrangePiRK3399_external.git"
 toolchain_GITHUB="https://github.com/orangepi-xunlong/OrangePiRK3399_toolchain.git"
 

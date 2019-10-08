@@ -320,7 +320,7 @@ You need only follow these steps:
     build scripts
 
     ```
-      https://github.com/orangepi-xunlong/OrangePiRK3399_scripts.git
+      https://github.com/3togo/OrangePiRK3399_scripts.git
     ```
 
     external binary file

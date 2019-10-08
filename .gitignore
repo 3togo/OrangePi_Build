@@ -67,3 +67,4 @@ OrangePiH2/
 
 **/output/
 **/build.log
+*.save

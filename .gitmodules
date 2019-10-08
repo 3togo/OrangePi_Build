@@ -8,7 +8,7 @@
 
 [submodule "OrangePiRK3399/scripts"]
   path = OrangePiRK3399/scripts
-  url = https://freetogo@gmail.com:joe3388.@github.com/3togo/OrangePiRK3399_scripts.git
+  url = https://github.com/3togo/OrangePiRK3399_scripts.git
 
 [submodule "OrangePiRK3399/external"]
   path = OrangePiRK3399/external

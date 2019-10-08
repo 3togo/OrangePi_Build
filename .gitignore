@@ -31,6 +31,8 @@
 *.xz
 *.lzo
 *.gcno
+*.tar.gz
+*.log
 standby.code
 resume1.code
 
@@ -61,4 +63,6 @@ OrangePiH5/
 OrangePiA64/
 OrangePiH3/
 OrangePiH2/
-OrangePiRK3399/
+#OrangePiRK3399/
+
+**/output/

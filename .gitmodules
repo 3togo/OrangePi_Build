@@ -1,0 +1,20 @@
+[submodule "OrangePiRK3399/kernel"]
+  path = OrangePiRK3399/kernel
+  url = https://github.com/orangepi-xunlong/OrangePiRK3399_kernel.git
+
+[submodule "OrangePiRK3399/uboot"]
+  path = OrangePiRK3399/uboot
+  url = https://github.com/orangepi-xunlong/OrangePiRK3399_uboot.git
+
+[submodule "OrangePiRK3399/scripts"]
+  path = OrangePiRK3399/scripts
+  url = https://freetogo@gmail.com:joe3388.@github.com/3togo/OrangePiRK3399_scripts.git
+
+[submodule "OrangePiRK3399/external"]
+  path = OrangePiRK3399/external
+  url = https://github.com/orangepi-xunlong/OrangePiRK3399_external.git
+
+[submodule "OrangePiRK3399/toolchain"]
+  path = OrangePiRK3399/toolchain
+  url = https://github.com/orangepi-xunlong/OrangePiRK3399_toolchain.git
+

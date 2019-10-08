@@ -1,4 +1,4 @@
-[?1049h[22;0;0t[1;68r[4l[?25l(B[m[37m[40m[1;68r[H[2J[1;1H[97m[44m[K
+[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -54,6 +54,7 @@
 [K
 [K
 [K
+[K[1;1H[24;11H[30m[47m┌─────────────┤ [31mOrangePi RK3399 Build System[30m ├─────────────┐[25;11H│                                                          │[97m[40m [26;11H[30m[47m│                    [37m[41m0 OrangePi RK3399[30m[47m                     │[97m[40m [27;11H[30m[47m│                                                          │[97m[40m [28;11H[30m[47m│                                                          │[97m[40m [29;11H[30m[47m│                                                          │[97m[40m [30;11H[30m[47m│                                                          │[97m[40m [31;11H[30m[47m│              <Select>              <Exit>                │[97m[40m [32;11H[30m[47m│                                                          │[97m[40m [33;11H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [34;12H                                                            [26;32H[37m[44m0 OrangePi RK3399[31;26H[41m<Select>[31;27H[?12l[?25h[57;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -65,7 +66,6 @@
 [K
 [K
 [K
-[K[1;1H[30;53H[30m[47m┌─────────────┤ [31mOrangePi RK3399 Build System[30m ├─────────────┐[31;53H│                                                          │[97m[40m [32;53H[30m[47m│                    [37m[41m0 OrangePi RK3399[30m[47m                     │[97m[40m [33;53H[30m[47m│                                                          │[97m[40m [34;53H[30m[47m│                                                          │[97m[40m [35;53H[30m[47m│                                                          │[97m[40m [36;53H[30m[47m│                                                          │[97m[40m [37;53H[30m[47m│              <Select>              <Exit>                │[97m[40m [38;53H[30m[47m│                                                          │[97m[40m [39;53H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [40;54H                                                            [32;74H[37m[44m0 OrangePi RK3399[37;68H[41m<Select>[37;69H[?12l[?25h[68;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[?1049h[22;0;0t[1;68r[4l[?25l(B[m[37m[40m[1;68r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -110,6 +110,7 @@
 [K
 [K
 [K
+[K[1;1H[?25l[?12l[?25h[24;11H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[25;11H│ Enter your root password. Note! Don't use root to run    │[97m[40m [26;11H[30m[47m│ this scripts                                             │[97m[40m [27;11H[30m[47m│                                                          │[97m[40m [28;11H[30m[47m│ [37m[44m________________________________________________________[30m[47m │[97m[40m [29;11H[30m[47m│                                                          │[97m[40m [30;11H[30m[47m│                                                          │[97m[40m [31;11H[30m[47m│              <Ok>                  <Cancel>              │[97m[40m [32;11H[30m[47m│                                                          │[97m[40m [33;11H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [34;12H                                                            [28;13H[37m[44m********[?25l[31;26H[41m<Ok>[31;27H[?12l[?25h[57;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -132,7 +133,6 @@
 [K
 [K
 [K
-[K[1;1H[?25l[?12l[?25h[30;53H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[31;53H│ Enter your root password. Note! Don't use root to run    │[97m[40m [32;53H[30m[47m│ this scripts                                             │[97m[40m [33;53H[30m[47m│                                                          │[97m[40m [34;53H[30m[47m│ [37m[44m________________________________________________________[30m[47m │[97m[40m [35;53H[30m[47m│                                                          │[97m[40m [36;53H[30m[47m│                                                          │[97m[40m [37;53H[30m[47m│              <Ok>                  <Cancel>              │[97m[40m [38;53H[30m[47m│                                                          │[97m[40m [39;53H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [40;54H                                                            [34;55H[37m[44m********[?25l[37;68H[41m<Ok>[37;69H[?12l[?25h[68;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[?1049h[22;0;0t[1;68r[4l[?25l(B[m[37m[40m[1;68r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -166,6 +166,8 @@
 [K
 [K
 [K
+[K[1;1H[19;11H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[20;11H│ Pls select build option                                  │[97m[40m [21;11H[30m[47m│                                                          │[97m[40m [22;11H[30m[47m│                  [37m[41m0 Build Release Image[30m[47m                   │[97m[40m [23;11H[30m[47m│                  1 Build Uboot                           │[97m[40m [24;11H[30m[47m│                  2 Build Linux                           │[97m[40m [25;11H[30m[47m│                  3 Update kernel Image                   │[97m[40m [26;11H[30m[47m│                  4 Update Module                         │[97m[40m [27;11H[30m[47m│                  5 Update Uboot                          │[97m[40m [28;11H[30m[47m│                                                          │[97m[40m [29;11H[30m[47m│                                                          │[97m[40m [30;11H[30m[47m│                                                          │[97m[40m [31;11H[30m[47m│                                                          │[97m[40m [32;11H[30m[47m│                                                          │[97m[40m [33;11H[30m[47m│                                                          │[97m[40m [34;11H[30m[47m│                                                          │[97m[40m [35;11H[30m[47m│                                                          │[97m[40m [36;11H[30m[47m│              <Select>              <Finish>              │[97m[40m [37;11H[30m[47m│                                                          │[97m[40m [38;11H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [39;12H                                                            [22;30H[37m[44m0 Build Release Image[36;26H[41m<Select>[36;27H[?12l[?25h[57;1H[40m(B[m[39;49m[K[?1049l[23;0;0tBuild Release Image...
+[H[2J[3J[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -199,8 +201,6 @@
 [K
 [K
 [K
-[K[1;1H[25;53H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[26;53H│ Pls select build option                                  │[97m[40m [27;53H[30m[47m│                                                          │[97m[40m [28;53H[30m[47m│                  [37m[41m0 Build Release Image[30m[47m                   │[97m[40m [29;53H[30m[47m│                  1 Build Uboot                           │[97m[40m [30;53H[30m[47m│                  2 Build Linux                           │[97m[40m [31;53H[30m[47m│                  3 Update kernel Image                   │[97m[40m [32;53H[30m[47m│                  4 Update Module                         │[97m[40m [33;53H[30m[47m│                  5 Update Uboot                          │[97m[40m [34;53H[30m[47m│                                                          │[97m[40m [35;53H[30m[47m│                                                          │[97m[40m [36;53H[30m[47m│                                                          │[97m[40m [37;53H[30m[47m│                                                          │[97m[40m [38;53H[30m[47m│                                                          │[97m[40m [39;53H[30m[47m│                                                          │[97m[40m [40;53H[30m[47m│                                                          │[97m[40m [41;53H[30m[47m│                                                          │[97m[40m [42;53H[30m[47m│              <Select>              <Finish>              │[97m[40m [43;53H[30m[47m│                                                          │[97m[40m [44;53H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [45;54H                                                            [28;72H[37m[44m0 Build Release Image[42;68H[41m<Select>[42;69H[?12l[?25h[68;1H[40m(B[m[39;49m[K[?1049l[23;0;0tBuild Release Image...
-[H[2J[3J[?1049h[22;0;0t[1;68r[4l[?25l(B[m[37m[40m[1;68r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -223,6 +223,7 @@
 [K
 [K
 [K
+[K[1;1H[24;11H[30m[47m┌─────────────┤ [31mOrangePi RK3399 Build System[30m ├─────────────┐[25;11H│                                                          │[97m[40m [26;11H[30m[47m│                        [37m[41m0 SD Card[30m[47m                         │[97m[40m [27;11H[30m[47m│                        1 EMMC                            │[97m[40m [28;11H[30m[47m│                                                          │[97m[40m [29;11H[30m[47m│                                                          │[97m[40m [30;11H[30m[47m│                                                          │[97m[40m [31;11H[30m[47m│              <Select>              <Exit>                │[97m[40m [32;11H[30m[47m│                                                          │[97m[40m [33;11H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [34;12H                                                            [26;36H[37m[44m0 SD Card[31;26H[41m<Select>[31;27H[?12l[?25h[57;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[H[2J[3J[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -267,7 +268,6 @@
 [K
 [K
 [K
-[K[1;1H[30;53H[30m[47m┌─────────────┤ [31mOrangePi RK3399 Build System[30m ├─────────────┐[31;53H│                                                          │[97m[40m [32;53H[30m[47m│                        [37m[41m0 SD Card[30m[47m                         │[97m[40m [33;53H[30m[47m│                        1 EMMC                            │[97m[40m [34;53H[30m[47m│                                                          │[97m[40m [35;53H[30m[47m│                                                          │[97m[40m [36;53H[30m[47m│                                                          │[97m[40m [37;53H[30m[47m│              <Select>              <Exit>                │[97m[40m [38;53H[30m[47m│                                                          │[97m[40m [39;53H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [40;54H                                                            [32;78H[37m[44m0 SD Card[37;68H[41m<Select>[37;69H[?12l[?25h[68;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[H[2J[3J[?1049h[22;0;0t[1;68r[4l[?25l(B[m[37m[40m[1;68r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -279,6 +279,7 @@
 [K
 [K
 [K
+[K[1;1H[19;11H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[20;11H│ Distro Options                                           │[97m[40m [21;11H[30m[47m│                                                          │[97m[40m [22;11H[30m[47m│                     [37m[41m0 Ubuntu Bioic [30m[47m                      │[97m[40m [23;11H[30m[47m│                     1 Debian Jessie                      │[97m[40m [24;11H[30m[47m│                                                          │[97m[40m [25;11H[30m[47m│                                                          │[97m[40m [26;11H[30m[47m│                                                          │[97m[40m [27;11H[30m[47m│                                                          │[97m[40m [28;11H[30m[47m│                                                          │[97m[40m [29;11H[30m[47m│                                                          │[97m[40m [30;11H[30m[47m│                                                          │[97m[40m [31;11H[30m[47m│                                                          │[97m[40m [32;11H[30m[47m│                                                          │[97m[40m [33;11H[30m[47m│                                                          │[97m[40m [34;11H[30m[47m│                                                          │[97m[40m [35;11H[30m[47m│                                                          │[97m[40m [36;11H[30m[47m│              <Select>              <Finish>              │[97m[40m [37;11H[30m[47m│                                                          │[97m[40m [38;11H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [39;12H                                                            [22;33H[37m[44m0 Ubuntu Bioic [36;26H[41m<Select>[36;27H[?12l[?25h[57;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -334,7 +335,7 @@
 [K
 [K
 [K
-[K[1;1H[25;53H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[26;53H│ Distro Options                                           │[97m[40m [27;53H[30m[47m│                                                          │[97m[40m [28;53H[30m[47m│                     [37m[41m0 Ubuntu Bioic [30m[47m                      │[97m[40m [29;53H[30m[47m│                     1 Debian Jessie                      │[97m[40m [30;53H[30m[47m│                                                          │[97m[40m [31;53H[30m[47m│                                                          │[97m[40m [32;53H[30m[47m│                                                          │[97m[40m [33;53H[30m[47m│                                                          │[97m[40m [34;53H[30m[47m│                                                          │[97m[40m [35;53H[30m[47m│                                                          │[97m[40m [36;53H[30m[47m│                                                          │[97m[40m [37;53H[30m[47m│                                                          │[97m[40m [38;53H[30m[47m│                                                          │[97m[40m [39;53H[30m[47m│                                                          │[97m[40m [40;53H[30m[47m│                                                          │[97m[40m [41;53H[30m[47m│                                                          │[97m[40m [42;53H[30m[47m│              <Select>              <Finish>              │[97m[40m [43;53H[30m[47m│                                                          │[97m[40m [44;53H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [45;54H                                                            [28;75H[37m[44m0 Ubuntu Bioic [42;68H[41m<Select>[42;69H[?12l[?25h[68;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[?1049h[22;0;0t[1;68r[4l[?25l(B[m[37m[40m[1;68r[H[2J[1;1H[97m[44m[K
+[K[1;1H[19;11H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[20;11H│ Distro Options                                           │[97m[40m [21;11H[30m[47m│                                                          │[97m[40m [22;11H[30m[47m│                         [37m[41m0 Server[30m[47m                         │[97m[40m [23;11H[30m[47m│                                                          │[97m[40m [24;11H[30m[47m│                                                          │[97m[40m [25;11H[30m[47m│                                                          │[97m[40m [26;11H[30m[47m│                                                          │[97m[40m [27;11H[30m[47m│                                                          │[97m[40m [28;11H[30m[47m│                                                          │[97m[40m [29;11H[30m[47m│                                                          │[97m[40m [30;11H[30m[47m│                                                          │[97m[40m [31;11H[30m[47m│                                                          │[97m[40m [32;11H[30m[47m│                                                          │[97m[40m [33;11H[30m[47m│                                                          │[97m[40m [34;11H[30m[47m│                                                          │[97m[40m [35;11H[30m[47m│                                                          │[97m[40m [36;11H[30m[47m│              <Select>              <Finish>              │[97m[40m [37;11H[30m[47m│                                                          │[97m[40m [38;11H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [39;12H                                                            [22;37H[37m[44m0 Server[36;26H[41m<Select>[36;27H[?12l[?25h[57;1H[40m(B[m[39;49m[K[?1049l[23;0;0t[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -390,18 +391,7 @@
 [K
 [K
 [K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K[1;1H[25;53H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[26;53H│ Distro Options                                           │[97m[40m [27;53H[30m[47m│                                                          │[97m[40m [28;53H[30m[47m│                         [37m[41m0 Server[30m[47m                         │[97m[40m [29;53H[30m[47m│                                                          │[97m[40m [30;53H[30m[47m│                                                          │[97m[40m [31;53H[30m[47m│                                                          │[97m[40m [32;53H[30m[47m│                                                          │[97m[40m [33;53H[30m[47m│                                                          │[97m[40m [34;53H[30m[47m│                                                          │[97m[40m [35;53H[30m[47m│                                                          │[97m[40m [36;53H[30m[47m│                                                          │[97m[40m [37;53H[30m[47m│                                                          │[97m[40m [38;53H[30m[47m│                                                          │[97m[40m [39;53H[30m[47m│                                                          │[97m[40m [40;53H[30m[47m│                                                          │[97m[40m [41;53H[30m[47m│                                                          │[97m[40m [42;53H[30m[47m│              <Select>              <Finish>              │[97m[40m [43;53H[30m[47m│                                                          │[97m[40m [44;53H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [45;54H                                                            [28;79H[37m[44m0 Server[42;68H[41m<Select>[42;69H[?12l[?25h[68;1H[40m(B[m[39;49m[K[?1049l[23;0;0tDestination /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs is not empty.
+[K[1;1H[24;11H[30m[47m┌────────────────┤ [31mOrangePi Build System[30m ├─────────────────┐[25;11H│                                                          │[97m[40m [26;11H[30m[47m│ bionic rootfs has exist! Do you want use it?             │[97m[40m [27;11H[30m[47m│                                                          │[97m[40m [28;11H[30m[47m│                                                          │[97m[40m [29;11H[30m[47m│                                                          │[97m[40m [30;11H[30m[47m│                                                          │[97m[40m [31;11H[30m[47m│               [37m[41m<Yes>[30m[47m                  <No>                │[97m[40m [32;11H[30m[47m│                                                          │[97m[40m [33;11H[30m[47m└──────────────────────────────────────────────────────────┘[97m[40m [34;12H                                                            [31;28H[30m[47m<Yes>[18C[37m[41m<No>[31;51H[?12l[?25h[57;1H[40m(B[m[39;49m[K[?1049l[23;0;0tDestination /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs is not empty.
 Clean up space.
 Extracting ... + bsdtar -xpf /home/eli/git/OrangePi_Build/OrangePiRK3399/external/ubuntu-base-18.04.3-base-arm64.tar.gz -C /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs
 + echo OK
@@ -426,10 +416,18 @@ OK
 + chmod +x /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/second-phase
 + do_chroot /second-phase
 + cmd=/second-phase
++ [[ ! -d /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/tmp ]]
 + mount -t proc /proc /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/proc
++ for mmnt in sys dev dev/pts dev/null tmp
 + mount -o bind /sys /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/sys
++ for mmnt in sys dev dev/pts dev/null tmp
 + mount -o bind /dev /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/dev
++ for mmnt in sys dev dev/pts dev/null tmp
 + mount -o bind /dev/pts /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/dev/pts
++ for mmnt in sys dev dev/pts dev/null tmp
++ mount -o bind /dev/null /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/dev/null
++ for mmnt in sys dev dev/pts dev/null tmp
++ mount -o bind /tmp /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/tmp
 + chroot /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs /second-phase
 Get:1 http://mirrors.mit.edu/ubuntu-ports bionic InRelease [242 kB]
 Get:2 http://mirrors.mit.edu/ubuntu-ports bionic-updates InRelease [88.7 kB]
@@ -463,7 +461,7 @@ Get:29 http://mirrors.mit.edu/ubuntu-ports bionic-security/universe arm64 Packag
 Get:30 http://mirrors.mit.edu/ubuntu-ports bionic-security/universe Translation-en [204 kB]
 Get:31 http://mirrors.mit.edu/ubuntu-ports bionic-security/multiverse arm64 Packages [1848 B]
 Get:32 http://mirrors.mit.edu/ubuntu-ports bionic-security/multiverse Translation-en [2428 B]
-Fetched 18.9 MB in 42s (452 kB/s)
+Fetched 18.9 MB in 20s (941 kB/s)
 Reading package lists...
 Reading package lists...
 Building dependency tree...
@@ -485,7 +483,7 @@ perl: warning: Please check that your locale settings:
     are supported and installed on your system.
 perl: warning: Falling back to the standard locale ("C").
 debconf: delaying package configuration, since apt-utils is not installed
-Fetched 4193 kB in 9s (458 kB/s)
+Fetched 4193 kB in 6s (705 kB/s)
 Selecting previously unselected package locales.
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4031 files and directories currently installed.)
 Preparing to unpack .../locales_2.27-3ubuntu1_all.deb ...
@@ -660,7 +658,6 @@ Get:90 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libhcrypto4-heimdal
 Get:91 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libwind0-heimdal arm64 7.5.0+dfsg-1 [47.0 kB]
 Get:92 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libhx509-5-heimdal arm64 7.5.0+dfsg-1 [88.5 kB]
 Get:93 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libkrb5-26-heimdal arm64 7.5.0+dfsg-1 [170 kB]
-Get:93 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libkrb5-26-heimdal arm64 7.5.0+dfsg-1 [170 kB]
 Get:94 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libheimntlm0-heimdal arm64 7.5.0+dfsg-1 [13.3 kB]
 Get:95 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libgssapi3-heimdal arm64 7.5.0+dfsg-1 [79.1 kB]
 Get:96 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libsasl2-modules-db arm64 2.1.27~101-g0780600+dfsg-3ubuntu2 [13.4 kB]
@@ -688,7 +685,7 @@ Get:117 http://mirrors.mit.edu/ubuntu-ports bionic-updates/main arm64 rfkill arm
 Get:118 http://mirrors.mit.edu/ubuntu-ports bionic-updates/main arm64 wpasupplicant arm64 2:2.6-15ubuntu2.5 [807 kB]
 Get:119 http://mirrors.mit.edu/ubuntu-ports bionic-updates/main arm64 ssh-import-id all 5.7-0ubuntu1.1 [10.9 kB]
 debconf: delaying package configuration, since apt-utils is not installed
-Fetched 30.3 MB in 31s (967 kB/s)
+Fetched 30.4 MB in 1min 14s (413 kB/s)
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4894 files and directories currently installed.)
 Preparing to unpack .../libsystemd0_237-3ubuntu10.29_arm64.deb ...
 Unpacking libsystemd0:arm64 (237-3ubuntu10.29) over (237-3ubuntu10.24) ...
@@ -1143,16 +1140,9 @@ Setting up libsasl2-modules:arm64 (2.1.27~101-g0780600+dfsg-3ubuntu2) ...
 Setting up libsamplerate0:arm64 (0.1.9-1) ...
 Setting up libnl-3-200:arm64 (3.2.29-0ubuntu3) ...
 Setting up ca-certificates (20180409) ...
-/bin/mktemp: failed to create file via template ‘/tmp/user/0/ca-certificates.crt.tmp.XXXXXX’: No such file or directory
-dpkg: error processing package ca-certificates (--configure):
- installed ca-certificates package post-installation script subprocess returned error exit status 1
+Updating certificates in /etc/ssl/certs...
+133 added, 0 removed; done.
 Setting up xdg-user-dirs (0.17-1ubuntu1) ...
-dpkg: dependency problems prevent configuration of ssh-import-id:
- ssh-import-id depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package ssh-import-id (--configure):
- dependency problems - leaving unconfigured
 Setting up rfkill (2.31.1-0.4ubuntu3.4) ...
 Setting up libx11-data (2:1.6.4-3ubuntu0.2) ...
 Setting up libxau6:arm64 (1:1.0.8-1) ...
@@ -1166,24 +1156,10 @@ Setting up libwind0-heimdal:arm64 (7.5.0+dfsg-1) ...
 Setting up libasn1-8-heimdal:arm64 (7.5.0+dfsg-1) ...
 Setting up libhcrypto4-heimdal:arm64 (7.5.0+dfsg-1) ...
 Setting up libnl-genl-3-200:arm64 (3.2.29-0ubuntu3) ...
-dpkg: dependency problems prevent configuration of python3-certifi:
- python3-certifi depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-certifi (--configure):
- dependency problems - leaving unconfigured
 Setting up file (1:5.32-2ubuntu0.2) ...
 Setting up usbutils (1:007-4build1) ...
 Setting up libhx509-5-heimdal:arm64 (7.5.0+dfsg-1) ...
 Setting up alsa-utils (1.1.3-1ubuntu1) ...
-dpkg: dependency problems prevent configuration of python3-requests:
- python3-requests depends on python3-certifi; however:
-  Package python3-certifi is not configured yet.
- python3-requests depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-requests (--configure):
- dependency problems - leaving unconfigured
 Setting up libkrb5-3:arm64 (1.16-2ubuntu0.1) ...
 Setting up libkrb5-26-heimdal:arm64 (7.5.0+dfsg-1) ...
 Setting up iw (4.14-0.1) ...
@@ -1200,6 +1176,7 @@ Setting up libx11-6:arm64 (2:1.6.4-3ubuntu0.2) ...
 Setting up wpasupplicant (2:2.6-15ubuntu2.5) ...
 Created symlink /etc/systemd/system/dbus-fi.w1.wpa_supplicant1.service → /lib/systemd/system/wpa_supplicant.service.
 Created symlink /etc/systemd/system/multi-user.target.wants/wpa_supplicant.service → /lib/systemd/system/wpa_supplicant.service.
+Setting up python3-certifi (2018.1.18-2) ...
 Setting up python3-pkg-resources (39.0.1-2) ...
 Setting up python3-gi (3.26.1-2ubuntu1) ...
 Setting up libxmuu1:arm64 (2:1.1.2-2) ...
@@ -1213,6 +1190,8 @@ Setting up libxext6:arm64 (2:1.3.3-1) ...
 Setting up xauth (1:1.0.10-1) ...
 Setting up openssh-sftp-server (1:7.6p1-4ubuntu0.3) ...
 Setting up libldap-2.4-2:arm64 (2.4.45+dfsg-1ubuntu1.4) ...
+Setting up python3-requests (2.18.4-2ubuntu0.1) ...
+Setting up ssh-import-id (5.7-0ubuntu1.1) ...
 Setting up networkd-dispatcher (1.7-0ubuntu3.3) ...
 Created symlink /etc/systemd/system/multi-user.target.wants/networkd-dispatcher.service → /lib/systemd/system/networkd-dispatcher.service.
 Setting up libcurl4:arm64 (7.58.0-2ubuntu3.8) ...
@@ -1220,25 +1199,24 @@ Setting up openssh-server (1:7.6p1-4ubuntu0.3) ...
 
 Creating config file /etc/ssh/sshd_config with new version
 Creating SSH2 RSA key; this may take some time ...
-2048 SHA256:AHeP9JAu8tp6wTnEey2OkZiYRYe//W+Je5DtNYh5jf4 root@wk-desktop (RSA)
+2048 SHA256:0h7qyudZtna7sXeWJwI5AxZu7bIakDd4djJOOMEagAo root@wk-desktop (RSA)
 Creating SSH2 ECDSA key; this may take some time ...
-256 SHA256:0z1IwP41iJELEmOudWX0AsOyLErxYKV8XzLGd9rey1w root@wk-desktop (ECDSA)
+256 SHA256:61+804ADLLdEEw4LaFsv+gGOwL9nD/CydMpB3Exf9Gs root@wk-desktop (ECDSA)
 Creating SSH2 ED25519 key; this may take some time ...
-256 SHA256:lmlZoSH2/6/thF/DDFOz2Hi8jsqlxYUnlt9zHZW7ZUk root@wk-desktop (ED25519)
+256 SHA256:DVGNVNPxwrWVGLRJhexQF/goXG2pR2QHpvyZwO+h1S0 root@wk-desktop (ED25519)
 Created symlink /etc/systemd/system/sshd.service → /lib/systemd/system/ssh.service.
 Created symlink /etc/systemd/system/multi-user.target.wants/ssh.service → /lib/systemd/system/ssh.service.
 Running in chroot, ignoring request.
 invoke-rc.d: policy-rc.d denied execution of start.
 Setting up curl (7.58.0-2ubuntu3.8) ...
 Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for ca-certificates (20180409) ...
+Updating certificates in /etc/ssl/certs...
+0 added, 0 removed; done.
+Running hooks in /etc/ca-certificates/update.d...
+done.
 Processing triggers for systemd (237-3ubuntu10.29) ...
 Processing triggers for dbus (1.12.2-1ubuntu1.1) ...
-Errors were encountered while processing:
- ca-certificates
- ssh-import-id
- python3-certifi
- python3-requests
-E: Sub-process /usr/bin/dpkg returned an error code (1)
 Reading package lists...
 Building dependency tree...
 Reading state information...
@@ -1286,7 +1264,6 @@ The following NEW packages will be installed:
 The following packages will be upgraded:
   apt libapt-pkg5.0 libudev1
 3 upgraded, 82 newly installed, 0 to remove and 18 not upgraded.
-4 not fully installed or removed.
 Need to get 14.6 MB of archives.
 After this operation, 63.7 MB of additional disk space will be used.
 Get:1 http://mirrors.mit.edu/ubuntu-ports bionic-updates/main arm64 libudev1 arm64 237-3ubuntu10.29 [45.1 kB]
@@ -1375,7 +1352,7 @@ Get:83 http://mirrors.mit.edu/ubuntu-ports bionic-updates/main arm64 python3-sof
 Get:84 http://mirrors.mit.edu/ubuntu-ports bionic-updates/main arm64 software-properties-common all 0.96.24.32.11 [9,996 B]
 Get:85 http://mirrors.mit.edu/ubuntu-ports bionic-updates/main arm64 unattended-upgrades all 1.1ubuntu1.18.04.11 [41.0 kB]
 debconf: delaying package configuration, since apt-utils is not installed
-Fetched 14.6 MB in 17s (869 kB/s)
+Fetched 14.6 MB in 18s (799 kB/s)
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 11402 files and directories currently installed.)
 Preparing to unpack .../libudev1_237-3ubuntu10.29_arm64.deb ...
 Unpacking libudev1:arm64 (237-3ubuntu10.29) over (237-3ubuntu10.24) ...
@@ -1661,8 +1638,8 @@ Setting up libisc-export169:arm64 (1:9.11.3+dfsg-1ubuntu1.9) ...
 Setting up tzdata (2019c-0ubuntu0.18.04) ...
 
 Current default time zone: 'Etc/UTC'
-Local time is now:      Tue Oct  8 05:21:18 UTC 2019.
-Universal Time is now:  Tue Oct  8 05:21:18 UTC 2019.
+Local time is now:      Tue Oct  8 07:10:16 UTC 2019.
+Universal Time is now:  Tue Oct  8 07:10:16 UTC 2019.
 Run 'dpkg-reconfigure tzdata' if you wish to change it.
 
 Setting up init (1.51) ...
@@ -1701,10 +1678,6 @@ Setting up liblocale-gettext-perl (1.07-3build2) ...
 Setting up libtext-charwidth-perl (0.04-7.1) ...
 Setting up initramfs-tools-bin (0.130ubuntu3.8) ...
 Processing triggers for dbus (1.12.2-1ubuntu1.1) ...
-Setting up ca-certificates (20180409) ...
-/bin/mktemp: failed to create file via template ‘/tmp/user/0/ca-certificates.crt.tmp.XXXXXX’: No such file or directory
-dpkg: error processing package ca-certificates (--configure):
- installed ca-certificates package post-installation script subprocess returned error exit status 1
 Setting up libslang2:arm64 (2.3.1a-3ubuntu1) ...
 Setting up cron (3.0pl1-128.1ubuntu1) ...
 Adding group `crontab' (GID 108) ...
@@ -1715,12 +1688,6 @@ Running in chroot, ignoring request.
 invoke-rc.d: policy-rc.d denied execution of start.
 Setting up libmnl0:arm64 (1.0.4-2) ...
 Setting up libassuan0:arm64 (2.5.1-2) ...
-dpkg: dependency problems prevent configuration of ssh-import-id:
- ssh-import-id depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package ssh-import-id (--configure):
- dependency problems - leaving unconfigured
 Setting up logrotate (3.11.0-0.1ubuntu1) ...
 Setting up rsyslog (8.32.0-1ubuntu4) ...
 
@@ -1734,12 +1701,6 @@ Running in chroot, ignoring request.
 invoke-rc.d: policy-rc.d denied execution of start.
 Setting up eject (2.1.5+deb1+cvs20081104-13.2) ...
 Setting up netbase (5.4) ...
-dpkg: dependency problems prevent configuration of software-properties-common:
- software-properties-common depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package software-properties-common (--configure):
- dependency problems - leaving unconfigured
 Setting up vim-tiny (2:8.0.1453-1ubuntu1.1) ...
 update-alternatives: using /usr/bin/vim.tiny to provide /usr/bin/rview (rview) in auto mode
 update-alternatives: using /usr/bin/vim.tiny to provide /usr/bin/vi (vi) in auto mode
@@ -1778,12 +1739,6 @@ update-initramfs: deferring update (trigger activated)
 Setting up klibc-utils (2.0.4-9ubuntu2) ...
 Setting up initramfs-tools-core (0.130ubuntu3.8) ...
 Setting up gpgconf (2.2.4-1ubuntu1.2) ...
-dpkg: dependency problems prevent configuration of python3-certifi:
- python3-certifi depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-certifi (--configure):
- dependency problems - leaving unconfigured
 Setting up initramfs-tools (0.130ubuntu3.8) ...
 update-initramfs: deferring update (trigger activated)
 Setting up iproute2 (4.15.0-2ubuntu1) ...
@@ -1791,14 +1746,6 @@ Setting up isc-dhcp-client (4.3.5-3ubuntu7.1) ...
 Setting up libtext-wrapi18n-perl (0.06-7.1) ...
 Setting up gpgsm (2.2.4-1ubuntu1.2) ...
 Setting up gnupg-utils (2.2.4-1ubuntu1.2) ...
-dpkg: dependency problems prevent configuration of python3-requests:
- python3-requests depends on python3-certifi; however:
-  Package python3-certifi is not configured yet.
- python3-requests depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-requests (--configure):
- dependency problems - leaving unconfigured
 Setting up pinentry-curses (1.1.0-1) ...
 Setting up libnewt0.52:arm64 (0.52.20-1ubuntu1) ...
 update-alternatives: using /etc/newt/palette.ubuntu to provide /etc/newt/palette (newt-palette) in auto mode
@@ -1812,6 +1759,7 @@ Setting up gpg-wks-server (2.2.4-1ubuntu1.2) ...
 Setting up gpg-wks-client (2.2.4-1ubuntu1.2) ...
 Setting up nplan (0.98-0ubuntu1~18.04.1) ...
 Setting up python3-software-properties (0.96.24.32.11) ...
+Setting up software-properties-common (0.96.24.32.11) ...
 Setting up gnupg (2.2.4-1ubuntu1.2) ...
 Setting up console-setup (1.178ubuntu2.9) ...
 update-initramfs: deferring update (trigger activated)
@@ -1825,13 +1773,7 @@ Created symlink /etc/systemd/system/sysinit.target.wants/setvtrgb.service → /l
 Processing triggers for libc-bin (2.27-3ubuntu1) ...
 Processing triggers for systemd (237-3ubuntu10.29) ...
 Processing triggers for initramfs-tools (0.130ubuntu3.8) ...
-Errors were encountered while processing:
- ca-certificates
- ssh-import-id
- software-properties-common
- python3-certifi
- python3-requests
-E: Sub-process /usr/bin/dpkg returned an error code (1)
+Processing triggers for dbus (1.12.2-1ubuntu1.1) ...
 Reading package lists...
 Building dependency tree...
 Reading state information...
@@ -1889,7 +1831,6 @@ The following NEW packages will be installed:
   u-boot-tools usb-modeswitch usb-modeswitch-data usbmount vim vim-runtime
   xutils-dev
 0 upgraded, 118 newly installed, 0 to remove and 18 not upgraded.
-5 not fully installed or removed.
 Need to get 57.8 MB of archives.
 After this operation, 279 MB of additional disk space will be used.
 Get:1 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libnfnetlink0 arm64 1.0.1-3 [11.5 kB]
@@ -2011,7 +1952,7 @@ Get:115 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 libsysfs-dev arm64
 Get:116 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 usb-modeswitch-data all 20170806-2 [30.7 kB]
 Get:117 http://mirrors.mit.edu/ubuntu-ports bionic/main arm64 usb-modeswitch arm64 2.5.2+repack0-2ubuntu1 [49.3 kB]
 Get:118 http://mirrors.mit.edu/ubuntu-ports bionic/universe arm64 usbmount all 0.0.22 [15.1 kB]
-Fetched 57.5 MB in 49s (1,184 kB/s)
+Fetched 57.7 MB in 58s (995 kB/s)
 Selecting previously unselected package libnfnetlink0:arm64.
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 16730 files and directories currently installed.)
 Preparing to unpack .../000-libnfnetlink0_1.0.1-3_arm64.deb ...
@@ -2424,18 +2365,8 @@ Processing triggers for dbus (1.12.2-1ubuntu1.1) ...
 Setting up libndp0:arm64 (1.6-1) ...
 Setting up lockfile-progs (0.1.17build1) ...
 Setting up iputils-arping (3:20161105-1ubuntu3) ...
-Setting up ca-certificates (20180409) ...
-/bin/mktemp: failed to create file via template ‘/tmp/user/0/ca-certificates.crt.tmp.XXXXXX’: No such file or directory
-dpkg: error processing package ca-certificates (--configure):
- installed ca-certificates package post-installation script subprocess returned error exit status 1
 Setting up manpages-dev (4.15-1) ...
 Setting up libc6-dev:arm64 (2.27-3ubuntu1) ...
-dpkg: dependency problems prevent configuration of ssh-import-id:
- ssh-import-id depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package ssh-import-id (--configure):
- dependency problems - leaving unconfigured
 Setting up libitm1:arm64 (8.3.0-6ubuntu1~18.04.1) ...
 Setting up libteamdctl0:arm64 (1.26-1) ...
 Setting up libpolkit-gobject-1-0:arm64 (0.105-20ubuntu0.18.04.5) ...
@@ -2445,12 +2376,6 @@ Setting up libsysfs-dev:arm64 (2.1.0+repack-4build1) ...
 Setting up libpcap0.8:arm64 (1.8.1-6ubuntu1) ...
 Setting up usbmount (0.0.22) ...
 Setting up libisl19:arm64 (0.19-1) ...
-dpkg: dependency problems prevent configuration of software-properties-common:
- software-properties-common depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package software-properties-common (--configure):
- dependency problems - leaving unconfigured
 Setting up libnetfilter-conntrack3:arm64 (1.0.6-2) ...
 Setting up libmbim-glib4:arm64 (1.18.0-1~ubuntu18.04.1) ...
 Setting up ppp (2.4.7-2+2ubuntu1.1) ...
@@ -2498,12 +2423,6 @@ Running in chroot, ignoring request.
 invoke-rc.d: policy-rc.d denied execution of start.
 Setting up libubsan0:arm64 (7.4.0-1ubuntu1~18.04.1) ...
 Setting up pptp-linux (1.9.0+ds-2) ...
-dpkg: dependency problems prevent configuration of python3-certifi:
- python3-certifi depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-certifi (--configure):
- dependency problems - leaving unconfigured
 Setting up fakeroot (1.22-2ubuntu1) ...
 update-alternatives: using /usr/bin/fakeroot-sysv to provide /usr/bin/fakeroot (fakeroot) in auto mode
 update-alternatives: warning: skip creation of /usr/share/man/man1/fakeroot.1.gz because associated file /usr/share/man/man1/fakeroot-sysv.1.gz (of link group fakeroot) doesn't exist
@@ -2524,14 +2443,6 @@ Setting up libperl5.26:arm64 (5.26.1-6ubuntu0.3) ...
 Setting up iptables (1.6.1-2ubuntu2) ...
 Setting up binutils-aarch64-linux-gnu (2.30-21ubuntu1~18.04.2) ...
 Setting up libdrm-etnaviv1:arm64 (2.4.97-1ubuntu1~18.04.1) ...
-dpkg: dependency problems prevent configuration of python3-requests:
- python3-requests depends on python3-certifi; however:
-  Package python3-certifi is not configured yet.
- python3-requests depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-requests (--configure):
- dependency problems - leaving unconfigured
 Setting up dnsmasq-base (2.79-1) ...
 Setting up binutils (2.30-21ubuntu1~18.04.2) ...
 Setting up libdrm-radeon1:arm64 (2.4.97-1ubuntu1~18.04.1) ...
@@ -2586,57 +2497,11 @@ Setting up pkg-config (0.29.1-0ubuntu2) ...
 Processing triggers for libc-bin (2.27-3ubuntu1) ...
 Processing triggers for systemd (237-3ubuntu10.29) ...
 Processing triggers for dbus (1.12.2-1ubuntu1.1) ...
-Errors were encountered while processing:
- ca-certificates
- ssh-import-id
- software-properties-common
- python3-certifi
- python3-requests
-E: Sub-process /usr/bin/dpkg returned an error code (1)
 Reading package lists...
 Building dependency tree...
 Reading state information...
 Package 'ureadahead' is not installed, so not removed
 0 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
-5 not fully installed or removed.
-After this operation, 0 B of additional disk space will be used.
-Setting up ca-certificates (20180409) ...
-/bin/mktemp: failed to create file via template ‘/tmp/user/0/ca-certificates.crt.tmp.XXXXXX’: No such file or directory
-dpkg: error processing package ca-certificates (--configure):
- installed ca-certificates package post-installation script subprocess returned error exit status 1
-dpkg: dependency problems prevent configuration of ssh-import-id:
- ssh-import-id depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package ssh-import-id (--configure):
- dependency problems - leaving unconfigured
-dpkg: dependency problems prevent configuration of software-properties-common:
- software-properties-common depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package software-properties-common (--configure):
- dependency problems - leaving unconfigured
-dpkg: dependency problems prevent configuration of python3-certifi:
- python3-certifi depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-certifi (--configure):
- dependency problems - leaving unconfigured
-dpkg: dependency problems prevent configuration of python3-requests:
- python3-requests depends on python3-certifi; however:
-  Package python3-certifi is not configured yet.
- python3-requests depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-requests (--configure):
- dependency problems - leaving unconfigured
-Errors were encountered while processing:
- ca-certificates
- ssh-import-id
- software-properties-common
- python3-certifi
- python3-requests
-E: Sub-process /usr/bin/dpkg returned an error code (1)
 Reading package lists...
 Building dependency tree...
 Reading state information...
@@ -2651,53 +2516,14 @@ Reading package lists...
 Building dependency tree...
 Reading state information...
 0 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
-5 not fully installed or removed.
-After this operation, 0 B of additional disk space will be used.
-Setting up ca-certificates (20180409) ...
-/bin/mktemp: failed to create file via template ‘/tmp/user/0/ca-certificates.crt.tmp.XXXXXX’: No such file or directory
-dpkg: error processing package ca-certificates (--configure):
- installed ca-certificates package post-installation script subprocess returned error exit status 1
-dpkg: dependency problems prevent configuration of ssh-import-id:
- ssh-import-id depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package ssh-import-id (--configure):
- dependency problems - leaving unconfigured
-dpkg: dependency problems prevent configuration of software-properties-common:
- software-properties-common depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package software-properties-common (--configure):
- dependency problems - leaving unconfigured
-dpkg: dependency problems prevent configuration of python3-certifi:
- python3-certifi depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-certifi (--configure):
- dependency problems - leaving unconfigured
-dpkg: dependency problems prevent configuration of python3-requests:
- python3-requests depends on python3-certifi; however:
-  Package python3-certifi is not configured yet.
- python3-requests depends on ca-certificates; however:
-  Package ca-certificates is not configured yet.
-
-dpkg: error processing package python3-requests (--configure):
- dependency problems - leaving unconfigured
-Errors were encountered while processing:
- ca-certificates
- ssh-import-id
- software-properties-common
- python3-certifi
- python3-requests
-E: Sub-process /usr/bin/dpkg returned an error code (1)
 + exit
 + cleanup
 + '[' -e /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/proc/cmdline ']'
 + umount /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/proc
 + '[' -d /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/sys/kernel ']'
 + umount /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/sys
-+ '[' -d /tmp/user/0/tmp.jrLIVKtBow ']'
-+ rm -rf /tmp/user/0/tmp.jrLIVKtBow
++ '[' -d /tmp/user/0/tmp.uhb9YXgYNQ ']'
++ rm -rf /tmp/user/0/tmp.uhb9YXgYNQ
 make: Entering directory '/home/eli/git/OrangePi_Build/OrangePiRK3399/kernel'
   INSTALL drivers/media/usb/gspca/gl860/gspca_gl860.ko
   INSTALL drivers/media/usb/gspca/gspca_benq.ko
@@ -2945,7 +2771,7 @@ make: Entering directory '/home/eli/git/OrangePi_Build/OrangePiRK3399/kernel'
   INSTALL /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/lib/firmware/yam/1200.bin
   INSTALL /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/lib/firmware/yam/9600.bin
 make: Leaving directory '/home/eli/git/OrangePi_Build/OrangePiRK3399/kernel'
-[H[2J[3J[?1049h[22;0;0t[1;68r[4l[?25l(B[m[37m[40m[1;68r[H[2J[1;1H[97m[44m[K
+[H[2J[3J[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -3001,21 +2827,10 @@ make: Leaving directory '/home/eli/git/OrangePi_Build/OrangePiRK3399/kernel'
 [K
 [K
 [K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K[1;1H[30;58H[30m[47m┌───────────┤ [31mOrangePi Build System[30m ├────────────┐[31;58H│                                                │[97m[40m [32;58H[30m[47m│ Build Rootfs Ok. The path of output:           │[97m[40m [33;58H[30m[47m│ /home/eli/git/OrangePi_Build/OrangePiRK3399/ou │[97m[40m [34;58H[30m[47m│ tput/rootfs                                    │[97m[40m [35;58H[30m[47m│                                                │[97m[40m [36;58H[30m[47m│                                                │[97m[40m [37;58H[30m[47m│                     [37m[41m<Ok>[30m[47m                       │[97m[40m [38;58H[30m[47m│                                                │[97m[40m [39;58H[30m[47m└────────────────────────────────────────────────┘[97m[40m [40;59H                                                  [37;81H[?12l[?25h[68;1H[37m(B[m[39;49m[K[?1049l[23;0;0tGenerate System image : /home/eli/git/OrangePi_Build/OrangePiRK3399/output/images/OrangePi_rk3399_bionic_server_v1.0.img !
+[K[1;1H[24;16H[30m[47m┌───────────┤ [31mOrangePi Build System[30m ├────────────┐[25;16H│                                                │[97m[40m [26;16H[30m[47m│ Build Rootfs Ok. The path of output:           │[97m[40m [27;16H[30m[47m│ /home/eli/git/OrangePi_Build/OrangePiRK3399/ou │[97m[40m [28;16H[30m[47m│ tput/rootfs                                    │[97m[40m [29;16H[30m[47m│                                                │[97m[40m [30;16H[30m[47m│                                                │[97m[40m [31;16H[30m[47m│                     [37m[41m<Ok>[30m[47m                       │[97m[40m [32;16H[30m[47m│                                                │[97m[40m [33;16H[30m[47m└────────────────────────────────────────────────┘[97m[40m [34;17H                                                  [31;39H[?12l[?25h[57;1H[37m(B[m[39;49m[K[?1049l[23;0;0tGenerate System image : /home/eli/git/OrangePi_Build/OrangePiRK3399/output/images/OrangePi_rk3399_bionic_server_v1.0.img !
 0+0 records in
 0+0 records out
-0 bytes copied, 0.000262924 s, 0.0 kB/s
+0 bytes copied, 6.1685e-05 s, 0.0 kB/s
 Warning: The resulting partition is not properly aligned for best performance.
 Warning: The resulting partition is not properly aligned for best performance.
 GPT fdisk (gdisk) version 1.0.4
@@ -3042,24 +2857,24 @@ run partprobe(8) or kpartx(8)
 The operation has completed successfully.
 279+1 records in
 279+1 records out
-142980 bytes (143 kB, 140 KiB) copied, 0.00507506 s, 28.2 MB/s
+142980 bytes (143 kB, 140 KiB) copied, 0.0021235 s, 67.3 MB/s
 8192+0 records in
 8192+0 records out
-4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.135445 s, 31.0 MB/s
+4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.0147051 s, 285 MB/s
 8192+0 records in
 8192+0 records out
-4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.103876 s, 40.4 MB/s
+4194304 bytes (4.2 MB, 4.0 MiB) copied, 0.0167987 s, 250 MB/s
 ____________________________________
 rootfs_size=1072
 1072+0 records in
 1072+0 records out
-1124073472 bytes (1.1 GB, 1.0 GiB) copied, 2.94528 s, 382 MB/s
+1124073472 bytes (1.1 GB, 1.0 GiB) copied, 2.70523 s, 416 MB/s
 ____________________________________
 starting mkfs.ext4
 mke2fs 1.45.3 (14-Jul-2019)
 Discarding device blocks:   4096/274432             done                            
 Creating filesystem with 274432 4k blocks and 68688 inodes
-Filesystem UUID: 86bef41b-da9b-4334-a776-81a02b6e0b46
+Filesystem UUID: 03d20371-b764-408b-a66b-3914c574d496
 Superblock backups stored on blocks: 
 	32768, 98304, 163840, 229376
 
@@ -3079,14 +2894,14 @@ mkfs.fat 4.1 (2017-01-24)
 -e [36m Generate Boot image : /home/eli/git/OrangePi_Build/OrangePiRK3399/output/boot.img success! [0m
 204800+0 records in
 204800+0 records out
-104857600 bytes (105 MB, 100 MiB) copied, 1.67471 s, 62.6 MB/s
+104857600 bytes (105 MB, 100 MiB) copied, 0.333259 s, 315 MB/s
 2195456+0 records in
 2195456+0 records out
-1124073472 bytes (1.1 GB, 1.0 GiB) copied, 4.59795 s, 244 MB/s
+1124073472 bytes (1.1 GB, 1.0 GiB) copied, 4.07785 s, 276 MB/s
 OrangePi_rk3399_bionic_server_v1.0.img
 OrangePi_rk3399_bionic_server_v1.0.img2
 OrangePi_rk3399_bionic_server_v1.0.img.md5sum
-[H[2J[3J[?1049h[22;0;0t[1;68r[4l[?25l(B[m[37m[40m[1;68r[H[2J[1;1H[97m[44m[K
+[H[2J[3J[?1049h[22;0;0t[1;57r[4l[?25l(B[m[37m[40m[1;57r[H[2J[1;1H[97m[44m[K
 [K
 [K
 [K
@@ -3142,15 +2957,4 @@ OrangePi_rk3399_bionic_server_v1.0.img.md5sum
 [K
 [K
 [K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K[1;1H[30;63H[30m[47m┌──────┤ [31mOrangePi Build System[30m ├───────┐[31;63H│                                      │[97m[40m [32;63H[30m[47m│ Succeed to build Image               │[97m[40m [33;63H[30m[47m│                                      │[97m[40m [34;63H[30m[47m│                                      │[97m[40m [35;63H[30m[47m│                                      │[97m[40m [36;63H[30m[47m│                                      │[97m[40m [37;63H[30m[47m│                [37m[41m<Continue>[30m[47m            │[97m[40m [38;63H[30m[47m│                                      │[97m[40m [39;63H[30m[47m└──────────────────────────────────────┘[97m[40m [40;64H                                        [37;81H[?12l[?25h[68;1H[37m(B[m[39;49m[K[?1049l[23;0;0tumount: /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/proc: not mounted.
+[K[1;1H[24;21H[30m[47m┌──────┤ [31mOrangePi Build System[30m ├───────┐[25;21H│                                      │[97m[40m [26;21H[30m[47m│ Succeed to build Image               │[97m[40m [27;21H[30m[47m│                                      │[97m[40m [28;21H[30m[47m│                                      │[97m[40m [29;21H[30m[47m│                                      │[97m[40m [30;21H[30m[47m│                                      │[97m[40m [31;21H[30m[47m│                [37m[41m<Continue>[30m[47m            │[97m[40m [32;21H[30m[47m│                                      │[97m[40m [33;21H[30m[47m└──────────────────────────────────────┘[97m[40m [34;22H                                        [31;39H[?12l[?25h[57;1H[37m(B[m[39;49m[K[?1049l[23;0;0tumount: /home/eli/git/OrangePi_Build/OrangePiRK3399/output/rootfs/proc: not mounted.

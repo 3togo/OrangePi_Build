@@ -1,2 +1,5 @@
-git push --recurse-submodules=on-demand
-
+git clone --recursive https://github.com/3togo/OrangePi_Build.git
+git submodule update --init --recursive
+git config push.recurseSubmodules on-demand
+#git push --recurse-submodules=on-demand
+git push

@@ -1,9 +1,19 @@
-DEST=output/rootfs
+DEST=$PWD/output/rootfs
+echo "DEST=$DEST"
 if [ ! -d $DEST ]; then
     echo "$DEST not found"
     exit
 fi
-sudo umount -l $DEST/dev/pts || true
-sudo umount -l $DEST/dev || true
-sudo umount -l $DEST/proc || true
-sudo umount -l $DEST/sys || true
+
+xs="proc tmp sys dev dev/pts"
+for x in $xs proc; do
+        sudo umount -l $DEST/$x || true
+    done
+
+
+xs="null zero"
+for x in $xs; do
+    sudo rm -f "/dev/$x" || true
+    sudo mknod -m 0666 "/dev/$x" c 1 3 || true
+done
+
